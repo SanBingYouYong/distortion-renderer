@@ -1,0 +1,6 @@
+name: distortion
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - 
