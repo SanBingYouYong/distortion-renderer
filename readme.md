@@ -1,3 +1,7 @@
+Distortion Renderer for cylinders, half-spheres and arbitrary straight-line shapes. 
+
+![Preview](preview.png)
+
 Install python environment: 
  - `conda create -n "distortion" python=3.10`
  - `pip install -r ./requirements.txt`
