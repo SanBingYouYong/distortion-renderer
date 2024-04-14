@@ -21,4 +21,7 @@ Running driver.py with environment activated:
 
 Select an object with left click (which will be highlighted) and press `Distort and Render`, a sketch-like results will be at `render/temp.png`. 
 
+Example Comparison: 
+![Compare](compare.png)
+
 Separate distortion and rendering pipeline is also available, along with several auxiliary functionalities. 
